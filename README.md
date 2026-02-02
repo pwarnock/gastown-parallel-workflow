@@ -16,6 +16,18 @@ A Claude Code plugin that bridges [Gastown](https://github.com/peterwarnock/gast
 
 This skill teaches agents to leverage **both levels** for maximum throughput.
 
+## Prerequisites
+
+This plugin requires the following to be installed:
+
+- **[beads](https://github.com/anthropics/beads)** - Git-backed issue tracking (provides `bd` CLI commands)
+- **[superpowers](https://github.com/anthropics/superpowers)** - Agent workflow skills (provides `dispatching-parallel-agents`, `subagent-driven-development`)
+
+Install beads:
+```bash
+/plugin install beads@beads-marketplace
+```
+
 ## Installation
 
 ```bash
