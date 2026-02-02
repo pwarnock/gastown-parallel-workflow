@@ -4,8 +4,5 @@
   "description": "Bridge Gastown cross-session orchestration with in-session subagent parallelization",
   "author": "Peter Warnock",
   "repository": "https://github.com/peterwarnock/gastown-parallel-workflow",
-  "license": "MIT",
-  "skills": [
-    "skills/parallel-workflow/SKILL.md"
-  ]
+  "license": "MIT"
 }
