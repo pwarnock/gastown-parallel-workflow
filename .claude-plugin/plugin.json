@@ -2,7 +2,10 @@
   "name": "gastown-parallel-workflow",
   "version": "0.1.0",
   "description": "Bridge Gastown cross-session orchestration with in-session subagent parallelization",
-  "author": "Peter Warnock",
-  "repository": "https://github.com/peterwarnock/gastown-parallel-workflow",
+  "author": {
+    "name": "Peter Warnock",
+    "url": "https://github.com/pwarnock"
+  },
+  "repository": "https://github.com/pwarnock/gastown-parallel-workflow",
   "license": "MIT"
 }
